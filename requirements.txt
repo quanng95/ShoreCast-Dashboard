@@ -5,7 +5,7 @@ numpy
 folium
 streamlit-folium
 branca
-geopandas==0.14.1
-shapely==2.0.2
-pyproj==3.6.1
-fiona==1.9.5
+geopandas
+shapely
+pyproj
+fiona
