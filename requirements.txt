@@ -5,3 +5,7 @@ numpy
 folium
 streamlit-folium
 branca
+geopandas
+shapely
+pyproj
+fiona
