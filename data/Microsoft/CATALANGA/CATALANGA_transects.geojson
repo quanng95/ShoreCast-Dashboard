@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CATALANGA_transects",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32651" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "T1", "length_m": 500.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 246419.554940136964433, 1532461.083446107106283 ], [ 246919.227116040012334, 1532442.980500813340768 ] ] } },
+{ "type": "Feature", "properties": { "name": "T2", "length_m": 500.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 246497.948173164913896, 1533090.090579875046387 ], [ 246997.763277481892146, 1533076.494201805675402 ] ] } },
+{ "type": "Feature", "properties": { "name": "T3", "length_m": 500.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 247144.602276378020179, 1532872.828150832792744 ], [ 246645.800833581422921, 1532838.228719276608899 ] ] } },
+{ "type": "Feature", "properties": { "name": "T4", "length_m": 500.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 247359.887717348028673, 1533455.794895107159391 ], [ 246860.422304481937317, 1533432.679935654858127 ] ] } },
+{ "type": "Feature", "properties": { "name": "T5", "length_m": 500.0 }, "geometry": { "type": "LineString", "coordinates": [ [ 247607.637059946224326, 1533196.357428298564628 ], [ 247107.766271439468255, 1533184.991039355052635 ] ] } }
+]
+}
